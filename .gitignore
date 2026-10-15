@@ -1,0 +1,17 @@
+# Course datasets are not redistributed
+*.dta
+*.csv
+*.xlsx
+*.xls
+*.sav
+
+# Stata outputs
+*.log
+*.smcl
+*.rtf
+*.gph
+*.ster
+
+# OS / editor files
+.DS_Store
+Thumbs.db
